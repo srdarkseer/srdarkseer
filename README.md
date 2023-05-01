@@ -23,10 +23,11 @@
      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
      <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-     <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> 
+     <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <br><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=srdarkseer&show_icons=true&locale=en" alt="srdarkseer" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=srdarkseer&" alt="srdarkseer" /></p>
+     
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srdarkseer&show_icons=true&locale=en&layout=compact" alt="srdarkseer" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srdarkseer&show_icons=true&locale=en&layout=compact" alt="srdarkseer" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srdarkseer&show_icons=true&locale=en" alt="srdarkseer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srdarkseer&" alt="srdarkseer" /></p>
