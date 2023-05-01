@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sushant R. Dangal</h1>
+<h1 align="center">Hi <img src="https://media2.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=6c09b952zbbomxizw4ctx7hznw7jklv0ijom0ou8vfu5tydz&rid=giphy.gif&ct=s" width="40">, I'm Sushant R. Dangal</h1>
 <h3 align="center">A Web App Developer</h3>
 
 
