@@ -20,8 +20,9 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,next,vite,redux,mui,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,express,nodejs,mongodb" /><br />
-    <img src="https://skillicons.dev/icons?i=postman,vscode,figma,git,jest,graphql" />
+    <img src="https://skillicons.dev/icons?i=htmx,html,css,javascript,typescript,bootstrap,styledcomponents" /><br />
+    <img src="https://skillicons.dev/icons?i=sass,gatsby,emotion,alpinejs,express,nodejs,mongodb,jest,graphql" /><br />
+    <img src="https://skillicons.dev/icons?i=postman,vscode,figma,git,vercel,netlify" /><br />
 </div>
 
 <br/>
